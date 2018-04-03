@@ -1,5 +1,5 @@
 FROM debian:jessie
-MAINTAINER Alexander Schenkel <alex@alexi.ch>
+MAINTAINER Vinicius Stroher <viniciusferreirawk@gmail.com>
 
 VOLUME ["/var/www"]
 
